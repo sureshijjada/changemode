@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.light {
+  width: 300px;
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+  border-radius: 15px;
+  border: 3px solid darkred;
+  padding: 10px;
+}
+.dark {
+  width: 300px;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  border-radius: 15px;
+  border: 3px solid darkred;
+  padding: 10px;
+}
+.card {
+  height: 100vh;
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+}
